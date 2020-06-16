@@ -12,7 +12,6 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-import java_cup.Lexer;
 import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
 
